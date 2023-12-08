@@ -1,3 +1,5 @@
 # Funny-Candle-Animation
 
-## DEMO[]
+## DEMO
+
+You can check out a live demo [here](https://techdiz.github.io/BouncingBallLoader/).
